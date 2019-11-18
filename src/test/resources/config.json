@@ -1,0 +1,35 @@
+{
+  "applicationUrl": "https://www.luxoft.com",
+  "usedDriver": "local",
+  "localDriver": {
+    "className": "org.openqa.selenium.chrome.ChromeDriver",
+    "systemProperties": {
+      "webdriver.chrome.driver": "D:\\luxoftProbabilityTest\\driver\\chromedriver.exe"
+    }
+  },
+  "remoteDriver": {
+    "browserName": "chrome",
+    "browserVersion": "74.0",
+    "browserCapabilities": {
+      "name" :  "TestName",
+      "goog:chromeOptions": {
+        "args": [
+          "--args",
+          "--allow-file-access-from-files",
+          "--disable-hang-monitor",
+          "--disable-extensions",
+          "--disable-web-security",
+          "--disable-popup-blocking",
+          "--disable-infobars",
+          "--disable-gpu",
+          "--window-size=1920,1080"
+        ],
+        "prefs": {
+          "download.prompt_for_download" : false,
+          "safebrowsing_for_trusted_sources_enabled" : false,
+          "plugins.always_open_pdf_externally" : true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e013f7-4f42-4d17-a190-547e407176fa" name="Default Changelist" comment="first commit" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/Career.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="295" selection-start-line="295" selection-end-line="295" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/JobOpportunitiesPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/ContactForm/checkOmskContacts.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luxoftProbabilityTest.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.8.10/aspectjrt-1.8.10.jar!/org/aspectj/runtime/reflect/JoinPointImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.0-BETA21/allure-java-commons-2.0-BETA21.jar!/io/qameta/allure/aspects/StepsAspects.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2805">
+              <caret line="204" selection-start-line="204" selection-end-line="204" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/SocketInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2380">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getPath</find>
+      <find>DATA_TYPES</find>
+      <find>ant-form-item-label</find>
+      <find>findB</find>
+      <find>check</find>
+      <find>Csv</find>
+      <find>reload</find>
+      <find>js</find>
+      <find>fromJsonFile</find>
+      <find>textToBe</find>
+      <find>publish</find>
+      <find>addtmp</find>
+      <find>getProperty</find>
+      <find>experimentalOptions</find>
+      <find>args</find>
+      <find>readJsonObject</find>
+      <find>tmp</find>
+      <find>srv-at-docker:4444</find>
+      <find>remoteDriver.getHubUrl()</find>
+      <find>4444</find>
+      <find>findI</find>
+      <find>edit</find>
+      <find>isC</find>
+      <find>java</find>
+      <find>maven-compiler-plugin</find>
+      <find>jupiter-ap</find>
+      <find>List&lt;String&gt;</find>
+      <find>jack</find>
+      <find>down</find>
+      <find>readConfig</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Role</replace>
+      <replace>CSS_SPINNING</replace>
+      <replace>CSS_MODAL_WIN</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/DICTIONARY/expectedResult.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/pages/UsersPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/service/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/TestCredentials.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/TestEnvironment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/Environment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/config/Environment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/service/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/config/UsedDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/config/LocalDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/config/RemoteDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/DictionaryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/GroupsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/RolesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/SecurityPoliciesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/StatusModelsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/UsersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/DeduplicationConfTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/config/Config.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/DataTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/pages/DictionariesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/pages/DictionaryAttributesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/pages/DeduplicationConfPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/pages/DataPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/model/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/model/DictionaryAttribute.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/config/Credentials.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/service/CommonPagePattern.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/SeleniumWatcher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/app/WebDriverDownloads.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bft/mdm_ice/tests/ChangeLogTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/SeleniumScreenShotForAllure.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/SeleniumWatcher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/service/CommonPagePattern.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/config.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/service/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/config/Config.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/service/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/ContactUsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/CommonPagePattern.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/ContactForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/Career.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/JobOpportunitiesPage.java" />
+        <option value="$PROJECT_DIR$/cases/ContactForm/checkOmskContacts.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="luxoftProbabilityTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="luxoftProbabilityTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_2_6_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_unitils_unitils_core_3_4_6.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="probability" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="probability" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="probability" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="probability" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luxoftProbabilityTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="probability" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.4.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.4.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-platform-commons-1.4.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.4.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-platform-commons-1.4.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.junit.platform:junit-platform-commons:1.4.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-platform-commons-1.4.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdm_ice_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-support-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="NBKnowledgePane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559034247200" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/luxoft/probability/service" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\luxoftProbabilityTest\src\test\java\com\luxoft\probability\service" />
+      <recent name="D:\BFT\mdm-ice\src\test\resources\DICTIONARY" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bft.mdm_ice.pages" />
+      <recent name="com.bft.mdm_ice.tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BFT\mdm-ice\src\test" />
+      <recent name="D:\BFT\mdm-ice\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Career.javaOpportunitiesNotEmptyTest">
+    <configuration name="Career.javaOpportunitiesNotEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luxoftProbabilityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.probability.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.probability.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.probability.tests.Career" />
+      <option name="METHOD_NAME" value="javaOpportunitiesNotEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTest.addDictionaryDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luxoftProbabilityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bft.mdm_ice.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bft.mdm_ice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bft.mdm_ice.tests.DataTest" />
+      <option name="METHOD_NAME" value="addDictionaryDataTest(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryTest.exportSchemeDictionaryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luxoftProbabilityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bft.mdm_ice.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bft.mdm_ice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bft.mdm_ice.tests.DictionaryTest" />
+      <option name="METHOD_NAME" value="exportSchemeDictionaryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryTest.findDictionaryTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="luxoftProbabilityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bft.mdm_ice.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bft.mdm_ice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bft.mdm_ice.tests.DictionaryTest" />
+      <option name="METHOD_NAME" value="findDictionaryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.openMainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luxoftProbabilityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.probability.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.probability.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.probability.tests.MainTest" />
+      <option name="METHOD_NAME" value="openMainPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[engine:junit-jupiter]/[class:com.bft.mdm_ice.tests.DataTest]/[test-template:addDictionaryDataTest(java.lang.String)]/[test-template-invocation:#1]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luxoftProbabilityTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bft.mdm_ice.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bft.mdm_ice.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bft.mdm_ice.tests.DataTest" />
+      <option name="METHOD_NAME" value="addDictionaryDataTest(java.lang.String)" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:com.bft.mdm_ice.tests.DataTest]/[test-template:addDictionaryDataTest(java.lang.String)]/[test-template-invocation:#1]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean test -Dtest=DataTest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=DataTest" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean test -Dtest=DictionaryTest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=DictionaryTest" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean test -Dtest=LoginTest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=LoginTest" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean test -Dtest=SecurityPoliciesTest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=SecurityPoliciesTest" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean test -Dtest=UsersTest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=UsersTest" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mdm_ice_autotest [allure:serve]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="allure:serve" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mdm_ice_autotest [clean,test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DictionaryTest.findDictionaryTest" />
+      <item itemvalue="JUnit.DataTest.addDictionaryDataTest" />
+      <item itemvalue="JUnit.DictionaryTest.exportSchemeDictionaryTest" />
+      <item itemvalue="JUnit.[engine:junit-jupiter]/[class:com.bft.mdm_ice.tests.DataTest]/[test-template:addDictionaryDataTest(java.lang.String)]/[test-template-invocation:#1]" />
+      <item itemvalue="JUnit.MainTest.openMainPageTest" />
+      <item itemvalue="JUnit.Career.javaOpportunitiesNotEmptyTest" />
+      <item itemvalue="Maven.clean test -Dtest=DataTest" />
+      <item itemvalue="Maven.clean test -Dtest=DictionaryTest" />
+      <item itemvalue="Maven.clean test -Dtest=LoginTest" />
+      <item itemvalue="Maven.clean test -Dtest=SecurityPoliciesTest" />
+      <item itemvalue="Maven.clean test -Dtest=UsersTest" />
+      <item itemvalue="Maven.mdm_ice_autotest [allure:serve]" />
+      <item itemvalue="Maven.mdm_ice_autotest [clean,test]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Career.javaOpportunitiesNotEmptyTest" />
+        <item itemvalue="JUnit.MainTest.openMainPageTest" />
+        <item itemvalue="JUnit.DictionaryTest.exportSchemeDictionaryTest" />
+        <item itemvalue="JUnit.DataTest.addDictionaryDataTest" />
+        <item itemvalue="JUnit.[engine:junit-jupiter]/[class:com.bft.mdm_ice.tests.DataTest]/[test-template:addDictionaryDataTest(java.lang.String)]/[test-template-invocation:#1]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e013f7-4f42-4d17-a190-547e407176fa" name="Default Changelist" comment="" />
+      <created>1554293376700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554293376700</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Разработан запуск тестов в докере.&#10;Добавлено параллельный запуск тестов на уровне каждого теста.&#10;Добавлены тесты CRUD по справочникам в разделе Администрирование.">
+      <created>1559032326235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559032326235</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавлены тесты Структура -&gt; Группы, Настройки -&gt; Статусные модели, Структура -&gt; Справочники(атрибуты)">
+      <created>1559295940109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559295940109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Тесты адаптированы под актуальную версию приложения.&#10;Функционал логина вынесен из тестов под аттрибут @BeforeEach.">
+      <created>1559732149828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559732149828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Рефакторинг классов тестируемых страниц.&#10;Загрузка json со справочником.">
+      <created>1560257650343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560257650343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Доработка тестов.&#10;Добавлены тесты для раздела Данные.">
+      <created>1561035716256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561035716256</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Доработка тестов.&#10;Добавлены тесты для раздела Инструменты -&gt; Конфигурации дедупликации.&#10;Конфигурационные параметры вынесены в config.json">
+      <created>1561643788385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561643788386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Доработка тестов.&#10;Добавлены тесты для раздела Инструменты -&gt; Конфигурации дедупликации.&#10;Конфигурационные параметры вынесены в config.json">
+      <created>1561643816028</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561643816028</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Доработка тестов.">
+      <created>1561919951280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561919951280</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 14h 32m 11s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 14h 35m 33s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 14h 46m 51s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 14h 58m 49s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 15h 03m 19s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 15h 10m 39s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 15h 16m 20s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 15h 19m 27s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 15h 23m 21s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Career_javaOpportunitiesNotEmptyTest - 2019.11.18 at 15h 23m 59s.xml">
+      <configuration name="Career.javaOpportunitiesNotEmptyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.20042644" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" sideWeight="0.50130546" weight="0.2109375" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30427352" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4409534" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.43763676" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.100758396" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.46137565" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.30444205" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3261105" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" x="644" y="265" width="631" height="509" id="Maven" order="4" visible="true" weight="0.20735608" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Разработан запуск тестов в докере.&#10;Добавлено параллельный запуск тестов на уровне каждого теста.&#10;Добавлены тесты CRUD по справочникам в разделе Администрирование." />
+    <MESSAGE value="Добавлены тесты Структура -&gt; Группы, Настройки -&gt; Статусные модели, Структура -&gt; Справочники(атрибуты)" />
+    <MESSAGE value="Тесты адаптированы под актуальную версию приложения.&#10;Функционал логина вынесен из тестов под аттрибут @BeforeEach." />
+    <MESSAGE value="Рефакторинг классов тестируемых страниц.&#10;Загрузка json со справочником." />
+    <MESSAGE value="Доработка тестов.&#10;Добавлены тесты для раздела Данные." />
+    <MESSAGE value="Доработка тестов.&#10;Добавлены тесты для раздела Инструменты -&gt; Конфигурации дедупликации.&#10;Конфигурационные параметры вынесены в config.json" />
+    <MESSAGE value="Доработка тестов." />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка тестов." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/ChangeLogPage.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/SecurityPoliciesPage.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DictionaryTest.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DictionaryTest.java</url>
+          <line>150</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/RolesPage.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DictionariesPage.java</url>
+          <line>184</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/GroupsTest.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/UsersTest.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DictionariesPage.java</url>
+          <line>206</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DictionaryTest.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/RolesPage.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DictionaryAttributesPage.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DictionaryAttributesPage.java</url>
+          <line>356</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>214</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java</url>
+          <line>218</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java</url>
+          <line>250</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java</url>
+          <line>294</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>265</line>
+          <properties />
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/UsersTest.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DeduplicationConfPage.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>208</line>
+          <properties />
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/Career.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/JobOpportunitiesPage.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/JobOpportunitiesPage.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="getDriver().findElement(By.xpath(&quot;//div[contains(@class, 'menu')]//li/a[text()='Careers']&quot;))" language="JAVA" />
+        <watch expression="getDriver().findElements(By.cssSelector(&quot;table.table-jobs tbody tr&quot;))" language="JAVA" />
+        <watch expression="capabilities.setCapability();" language="JAVA" />
+        <watch expression="value" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>getDriver().findElements(By.cssSelector(&quot;table.table-jobs tbody tr&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getDriver().findElements(By.cssSelector(&quot;div.table.table-jobs tbody tr&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getDriver().findElement(By.xpath(&quot;//div[contains(@class, 'menu')]//li/a[text()='Careers']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getDriver().findElement(By.xpath(&quot;//div[contains(@class, 'menu')]//li[text()='Careers']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getDriver().findElement(By.xpath(&quot;//div[contains(@class, 'menu')]&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getDriver().findElement(By.xpath(&quot;//div[contains(@class, 'menu']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getDriver().findElement(By.xpath(&quot;//div[contains(@class, 'menu']//li[text()='Careers']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>value</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>waitDriver().until(presenceOfAllElementsLocatedBy(By.cssSelector(&quot;div.ant-menu-submenu.ant-menu-submenu-popup ul.ant-menu li&quot;)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>capabilities.setCapability();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>value</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>capabilities.toJson()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>CONFIG</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>chromeOptions.toJson()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>file.getAbsolutePath()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>file.getPath()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>file.exists()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reader.read(buffer)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/GroupsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DeduplicationConfTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/UsersPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DataPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DeduplicationConfPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DictionaryAttributesPage.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/unitils/unitils-core/3.4.6/unitils-core-3.4.6-sources.jar!/org/unitils/reflectionassert/ReflectionAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="134" column="23" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DictionaryTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/DictionariesPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/DICTIONARY/expectedResult.txt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1510">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/model/Dictionary.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/model/DictionaryAttribute.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/DICTIONARY/expectedResult.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/Credentials.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/WebDriverDownloads.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/SeleniumScreenShot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/SeleniumScreenShotForAllure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/DataTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/GroupsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/ChangeLogTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/ChangeLogPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/LoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/RolesPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/SecurityPoliciesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/StatusModelsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/UsersTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/RolesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/config/LocalDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/config/RemoteDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/config/UsedDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/service/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/ContactUsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/ContactForm.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/app/SeleniumWatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/service/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.8.10/aspectjrt-1.8.10.jar!/org/aspectj/runtime/reflect/JoinPointImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.0-BETA21/allure-java-commons-2.0-BETA21.jar!/io/qameta/allure/aspects/StepsAspects.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/CommonPagePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/pages/JobOpportunitiesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dirlist.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/ContactForm/checkOmskContacts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luxoftProbabilityTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/Career.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/luxoft/probability/tests/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mdm_ice_autotest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.shazam:shazamcrest:0.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
