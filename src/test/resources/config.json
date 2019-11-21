@@ -4,7 +4,7 @@
   "localDriver": {
     "className": "org.openqa.selenium.chrome.ChromeDriver",
     "systemProperties": {
-      "webdriver.chrome.driver": "D:\\luxoftProbabilityTest\\driver\\chromedriver.exe"
+      "webdriver.chrome.driver": "C:\\Users\\Strike\\IdeaProjects\\probabilityTest\\driver\\chromedriver.exe"
     }
   },
   "remoteDriver": {

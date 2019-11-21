@@ -14,7 +14,6 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOfElem
 public class JobOpportunitiesPage extends CommonPagePattern {
     public JobOpportunitiesPage(WebDriver driver) {
         super(driver);
-
         waitDriver().until(visibilityOfElementLocated(By.cssSelector("div.lux-search-stripe")));
     }
 
